@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Baloo 2", ui-rounded, system-ui, sans-serif;
+  --font-body: "Nunito", system-ui, -apple-system, sans-serif;
+  --color-cream: #FAF5EE;
+  --color-kraft-light: #F2E7D8;
+  --color-kraft-mid: #DFCBB2;
+  --color-kraft-dark: #9B7149;
+  --color-ink: #2B231D;
+  --color-ink-muted: #66574A;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-body);
+    color: var(--color-ink);
+    background-color: var(--color-cream);
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+  }
+}
+
+.kraft-surface {
+  background-color: #EFE2D0;
+  background-image: radial-gradient(rgba(139, 90, 43, 0.06) 1px, transparent 0);
+  background-size: 16px 16px;
+}
+
+.paper-grid {
+  background-image:
+    linear-gradient(to right, rgba(155, 113, 73, 0.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(155, 113, 73, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+@keyframes gentle-float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+.animate-gentle-float {
+  animation: gentle-float 5s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-gentle-float {
+    animation: none;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}

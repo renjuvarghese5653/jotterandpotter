@@ -1,0 +1,6 @@
+{
+  "name": "Jotter & Potter — The Little Designer",
+  "description": "Hands-on, screen-free 12-month design learning kits for children aged 6–12 in India. Imagine. Design. Create.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1272 @@
+{
+  "brand": {
+    "name": "Jotter & Potter",
+    "seriesName": "The Little Designer",
+    "tagline": "Imagine. Design. Create.",
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "whatsappNumber": "+91 98450 12345",
+    "supportEmail": "hello@jotterandpotter.in"
+  },
+  "images": {
+    "heroFolder": "/src/assets/images/hero_architect_folder_1795515092562.jpg",
+    "packContents": "/src/assets/images/pack_contents_flatlay_1795515093633.jpg",
+    "comboBoxes": "/src/assets/images/combo_boxes_trio_1795515093390.jpg",
+    "familyCraft": "/src/assets/images/child_building_bridge_1795515095154.jpg",
+    "meetArchitectSheet": "/src/assets/images/meet_architect_sheet_1795515095041.jpg"
+  },
+  "packStandardContents": [
+    {
+      "title": "Sealed Client Letter",
+      "detail": "A real envelope addressed to your child from their monthly client setting out the design brief."
+    },
+    {
+      "title": "12 Mission Sheets",
+      "detail": "Step-by-step illustrated sheets guiding research, sketching, testing, and final presentation."
+    },
+    {
+      "title": "24 Word & Colouring Cards",
+      "detail": "12 matched word-and-picture pairs tucked inside a natural kraft pouch to build design vocabulary."
+    },
+    {
+      "title": "Monthly Tool or Play Item",
+      "detail": "One tactile tool or craft component that changes every month to match the discipline."
+    },
+    {
+      "title": "Badge Stickers & Certificate",
+      "detail": "Woven-look badge stickers and a formal certificate signed by the client after presentation."
+    },
+    {
+      "title": "Parent Guide & Safety Note",
+      "detail": "Clear 4-week pacing notes, conversation prompts, and adult-help reminders for cutting."
+    },
+    {
+      "title": "Colour-Coded Kraft Folder",
+      "detail": "Sturdy month-labelled kraft folder with a QR code linking to the short mission introduction video."
+    }
+  ],
+  "starterKit": {
+    "id": "starter-kit",
+    "slug": "little-designer-starter-kit",
+    "name": "The Little Designer Starter Kit",
+    "subtitle": "Included free inside the first box of every Combo",
+    "ageGroup": "6-12",
+    "priceInr": null,
+    "pricePlaceholder": "₹[PRICE]",
+    "description": "Everything a young maker needs on their desk before opening Month 01. Built with rounded safety scissors, non-toxic glue stick, wooden scale, colour pencils, and a kraft portfolio clip.",
+    "contents": [
+      "Blunt-tip kid-safe craft scissors (adult supervision advised)",
+      "12 smooth-lead wooden colour pencils",
+      "Wooden 15cm architect scale ruler & eraser",
+      "Non-toxic craft glue stick & masking tape roll",
+      "Sturdy kraft portfolio binder strap for all 12 folders"
+    ],
+    "rating": 4.9,
+    "reviewCount": 42
+  },
+  "collections": [
+    {
+      "id": "month-01",
+      "month": 1,
+      "monthCode": "01",
+      "slug": "the-little-architect",
+      "title": "The Little Architect",
+      "shortTitle": "Architect",
+      "colourName": "Coral",
+      "heroHex": "#E66B54",
+      "heroLightHex": "#FDF1EE",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "architect",
+      "tagline": "Design a home for someone you love",
+      "missionGoal": "Interview a family member, map how sunlight enters an Indian home, sketch a floor plan, and build a scale cardboard house model.",
+      "clientRole": "Grandparent or Elder Family Member",
+      "clientLetterTeaser": "Dear Little Architect, my knees find steep stairs tricky and I miss sitting near morning sunlight with my tea. Can you design a warm, easy-to-walk home just for me?",
+      "ageGroup": "6-12",
+      "skillFocus": "Spatial Thinking",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "imageUrl": "/src/assets/images/hero_architect_folder_1795515092562.jpg",
+      "monthlyToolItem": "15cm Wooden Scale Ruler & Brass Door-Hinge Fasteners",
+      "qrVideoTitle": "Welcome to Architecture: How Architects Measure Rooms",
+      "qrVideoDuration": "3 min 40 sec",
+      "safetyNote": "Adult help is required when cutting thick corrugated cardboard walls and window openings.",
+      "materialsNeeded": [
+        "Old cardboard carton or cereal box",
+        "Safety scissors (from Starter Kit) & glue stick",
+        "Pencil, wooden ruler, and colour pencils"
+      ],
+      "skillsDeveloped": [
+        "Spatial reasoning & top-down mapping",
+        "Empathy through client interviews",
+        "Measuring in centimetres & simple scale",
+        "Confident oral presentation"
+      ],
+      "missionSteps": [
+        "Open the sealed client letter and read your brief aloud.",
+        "Interview your grandparent or client about daily routines.",
+        "Measure your own room using footsteps and a wooden ruler.",
+        "Trace sunlight and cross-breeze directions in an Indian home.",
+        "Draw bubble zones for kitchen, verandah, bedroom, and courtyard.",
+        "Sketch your first top-down floor plan on the grid sheet.",
+        "Mark doors, wide hallways, and windows for airflow.",
+        "Choose cool roof materials like clay tiles or terracotta.",
+        "Cut and score cardboard walls (with an adult helping on cuts).",
+        "Assemble the 3D house model and test door swings.",
+        "Add miniature furniture and verandah plants.",
+        "Present the finished home to your client and get your certificate signed."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Floor Plan", "concept": "Looking straight down at rooms like a bird" },
+        { "id": 2, "word": "Verandah", "concept": "Shaded outdoor porch for breeze and family tea" },
+        { "id": 3, "word": "Scale", "concept": "Shrinking real metres neatly onto paper" },
+        { "id": 4, "word": "Ventilation", "concept": "Cross-windows that keep rooms naturally cool" },
+        { "id": 5, "word": "Threshold", "concept": "The welcoming step at a home entrance" },
+        { "id": 6, "word": "Courtyard", "concept": "Open-to-sky centre bringing light indoors" },
+        { "id": 7, "word": "Elevation", "concept": "Drawing the front face of a building" },
+        { "id": 8, "word": "Ramp", "concept": "Gentle slope making steps easy for elders" },
+        { "id": 9, "word": "Facade", "concept": "The expressive front wall and windows" },
+        { "id": 10, "word": "Blueprint", "concept": "Measured plan shared before building starts" },
+        { "id": 11, "word": "Terracotta", "concept": "Baked earthen roof tiles that resist heat" },
+        { "id": 12, "word": "Sign-off", "concept": "Client approval when every need is met" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Listen & Measure", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Meet your client, ask questions, and learn how floor plans work." },
+        { "week": 2, "title": "Sunlight & Sketching", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Map breeze, sun paths, and sketch the scaled floor plan." },
+        { "week": 3, "title": "Walls & Roofs", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Prepare elevations, cut cardboard walls with adult help." },
+        { "week": 4, "title": "Build & Present", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Assemble the home model, present it, and earn your Coral Badge." }
+      ],
+      "rating": 4.9,
+      "reviewCount": 68,
+      "reviews": [
+        {
+          "id": "r-m1-1",
+          "author": "Ananya Deshmukh",
+          "city": "Pune",
+          "childAge": "Age 8",
+          "rating": 5,
+          "comment": "My son spent an entire Sunday interviewing his Ajji about her dream kitchen and added a ramp at the doorway without anyone prompting him.",
+          "date": "October 2026"
+        },
+        {
+          "id": "r-m1-2",
+          "author": "Karthik Nair",
+          "city": "Bengaluru",
+          "childAge": "Age 10",
+          "rating": 5,
+          "comment": "Zero screens for four weekends straight. The client sign-off certificate gave my daughter immense pride.",
+          "date": "September 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-02",
+      "month": 2,
+      "monthCode": "02",
+      "slug": "the-little-interior-designer",
+      "title": "The Little Interior Designer",
+      "shortTitle": "Interior Designer",
+      "colourName": "Purple",
+      "heroHex": "#7E57C2",
+      "heroLightHex": "#F4F0FA",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "interior",
+      "tagline": "Design a cosy reading corner",
+      "missionGoal": "Measure a real corner of your home, curate cotton fabric and colour swatches, plan warm lamp lighting, and set up a real reading nook.",
+      "clientRole": "Sibling or Best Friend",
+      "clientLetterTeaser": "Dear Interior Designer, our living room feels noisy when I want to read storybooks. Can you turn one quiet corner into a calm, sunlit nook with clever book storage?",
+      "ageGroup": "6-12",
+      "skillFocus": "Colour & Comfort",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "Cotton Fabric Swatch Book & Brass Corner Clips",
+      "qrVideoTitle": "Mood Boards & Cozy Corners: Light, Texture, and Space",
+      "qrVideoDuration": "3 min 25 sec",
+      "safetyNote": "Adult help needed when cutting cardboard book-caddy edges or hanging low hooks.",
+      "materialsNeeded": [
+        "Shoebox or sturdy cardboard box for book caddy",
+        "Old cushion cover or cotton dupatta scrap",
+        "Glue, safety scissors, and pencils"
+      ],
+      "skillsDeveloped": [
+        "Colour harmony & tactile fabric matching",
+        "Ergonomic seating & lighting awareness",
+        "Organizing small spaces cleanly",
+        "Client feedback & iteration"
+      ],
+      "missionSteps": [
+        "Open the client letter and note your sibling's favourite stories.",
+        "Measure the chosen corner width and natural window light.",
+        "Observe noise levels at morning, afternoon, and evening.",
+        "Build a tactile mood board with paper and cotton swatches.",
+        "Pick a calm three-colour palette (base, warm, accent).",
+        "Design cushion heights and reachable book shelf placement.",
+        "Plan warm reading light without screen glare.",
+        "Sketch a miniature box-room layout before rearranging.",
+        "Craft a cardboard table-top book organizer (with adult cutting help).",
+        "Arrange cushions, mat, and handmade bookmark tray.",
+        "Invite your client for a 10-minute silent reading test.",
+        "Present your final corner and collect your Purple Badge."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Mood Board", "concept": "Pinning colours and fabrics to test a vibe" },
+        { "id": 2, "word": "Texture", "concept": "How khadi, cane, or cotton feels to touch" },
+        { "id": 3, "word": "Palette", "concept": "Three colours chosen to work calmly together" },
+        { "id": 4, "word": "Nook", "concept": "A snug, quiet corner made for focus" },
+        { "id": 5, "word": "Ergonomics", "concept": "Sizing seats and shelves for comfortable reach" },
+        { "id": 6, "word": "Daylight", "concept": "Natural window glow that rests young eyes" },
+        { "id": 7, "word": "Cushioning", "concept": "Soft floor bolsters for relaxed posture" },
+        { "id": 8, "word": "Storage", "concept": "Keeping favourite books tidy and visible" },
+        { "id": 9, "word": "Accent", "concept": "One cheerful colour pop in a calm room" },
+        { "id": 10, "word": "Acoustics", "concept": "Soft rugs and curtains that soften echoes" },
+        { "id": 11, "word": "Swatch", "concept": "A tiny sample square of cloth or paint" },
+        { "id": 12, "word": "Handover", "concept": "Walking your client through their new space" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Brief & Corner Audit", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Interview your sibling and map light and space in the room." },
+        { "week": 2, "title": "Swatches & Palette", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Create a real cotton-and-paper mood board and seating plan." },
+        { "week": 3, "title": "Craft & Organize", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Build the book caddy and prepare soft textiles." },
+        { "week": 4, "title": "Test & Reveal", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Set up the corner, test comfort, and earn your sign-off." }
+      ],
+      "rating": 4.8,
+      "reviewCount": 49,
+      "reviews": [
+        {
+          "id": "r-m2-1",
+          "author": "Meera Sundaram",
+          "city": "Chennai",
+          "childAge": "Age 7",
+          "rating": 5,
+          "comment": "Our spare corner by the balcony actually stayed organized! Both my daughters now read there every evening.",
+          "date": "October 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-03",
+      "month": 3,
+      "monthCode": "03",
+      "slug": "the-little-landscape-designer",
+      "title": "The Little Landscape Designer",
+      "shortTitle": "Landscape Designer",
+      "colourName": "Green",
+      "heroHex": "#4CAF50",
+      "heroLightHex": "#EEF8EE",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "landscape",
+      "tagline": "Create a balcony bird garden",
+      "missionGoal": "Observe local Indian birds like sparrows, bulbuls, and sunbirds, map balcony sun hours, and build a safe feeder and native planter layout.",
+      "clientRole": "Your Neighbourhood Birds & Family",
+      "clientLetterTeaser": "Dear Landscape Designer, city balconies can feel bare and hot. Can you design a leafy, bird-friendly green ledge with shade, water, and native flowers?",
+      "ageGroup": "6-12",
+      "skillFocus": "Nature & Observation",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "Native Marigold & Tulsi Seed Packet + Coconut Coir Twine",
+      "qrVideoTitle": "Designing for Indian Sparrows, Sunbirds, and Balcony Shade",
+      "qrVideoDuration": "4 min 05 sec",
+      "safetyNote": "Adult help needed when punching drainage holes in pots or tying balcony planters securely.",
+      "materialsNeeded": [
+        "2 recycled plastic or clay containers & shallow water bowl",
+        "Potting soil, kitchen pebbles, and water",
+        "Scissors and jute twine"
+      ],
+      "skillsDeveloped": [
+        "Patient wildlife & plant observation",
+        "Micro-climate & sunlight tracking",
+        "Ecological care for native species",
+        "Diagramming plant layers"
+      ],
+      "missionSteps": [
+        "Read the bird client letter and spot three balcony visitors.",
+        "Log morning and afternoon sunlight across your balcony floor.",
+        "Sketch where wind blows strongest and where shade rests.",
+        "Learn which Indian plants attract sunbirds and butterflies.",
+        "Group tall, medium, and ground-cover pots into three layers.",
+        "Design a clean shallow clay birdbath safe from cats.",
+        "Plan a hanging coconut-shell or carton seed feeder.",
+        "Map drainage saucers so no water drips onto neighbours.",
+        "Prepare soil, pebbles, and sow native seeds (adult help on holes).",
+        "Hang and secure the feeder with coir twine.",
+        "Keep a 5-day bird and sprout observation log.",
+        "Present your living balcony garden for family sign-off."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Pollinator", "concept": "Bees, sunbirds, and butterflies helping flowers fruit" },
+        { "id": 2, "word": "Canopy", "concept": "Tall leafy plants casting cool dappled shade" },
+        { "id": 3, "word": "Native Plant", "concept": "Tulsi, hibiscus, or marigold thriving naturally here" },
+        { "id": 4, "word": "Drainage", "concept": "Tiny pot holes preventing soggy roots" },
+        { "id": 5, "word": "Birdbath", "concept": "Shallow water dish for sparrows to drink and splash" },
+        { "id": 6, "word": "Microclimate", "concept": "Sunny or shady pockets inside one balcony" },
+        { "id": 7, "word": "Compost", "concept": "Rich leaf-food feeding young seedlings" },
+        { "id": 8, "word": "Perch", "concept": "A steady twig where a bulbul rests safely" },
+        { "id": 9, "word": "Sprout", "concept": "The very first green shoot waking from a seed" },
+        { "id": 10, "word": "Planter Map", "concept": "Drawing where heavy and light pots sit" },
+        { "id": 11, "word": "Coir", "concept": "Natural coconut husk fibre holding moisture" },
+        { "id": 12, "word": "Habitat", "concept": "A safe food-and-water home for wild visitors" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Sun & Bird Watch", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Track sun hours and note birds visiting your street." },
+        { "week": 2, "title": "Plant Layer Plan", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Plan native planters, shade zones, and birdbath safety." },
+        { "week": 3, "title": "Sow & Build Feeder", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Plant seeds and build the feeder with adult help." },
+        { "week": 4, "title": "Log & Present", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Track sprouts, welcome birds, and earn your Green Badge." }
+      ],
+      "rating": 4.9,
+      "reviewCount": 41,
+      "reviews": [
+        {
+          "id": "r-m3-1",
+          "author": "Rohan Kulkarni",
+          "city": "Hyderabad",
+          "childAge": "Age 9",
+          "rating": 5,
+          "comment": "We spotted two purple sunbirds on day six. My son checks his bird log before school every morning now.",
+          "date": "October 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-04",
+      "month": 4,
+      "monthCode": "04",
+      "slug": "the-little-urban-planner",
+      "title": "The Little Urban Planner",
+      "shortTitle": "Urban Planner",
+      "colourName": "Blue",
+      "heroHex": "#3B82F6",
+      "heroLightHex": "#EFF6FF",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "urban",
+      "tagline": "Plan a safer street",
+      "missionGoal": "Walk your street with an adult, spot blind corners and missing footpaths, and build a tabletop road-safety redesign model.",
+      "clientRole": "Schoolmates & Street Pedestrians",
+      "clientLetterTeaser": "Dear Urban Planner, crossing the corner near our neighbourhood gate feels rushed and confusing. Can you redesign our street so children, elders, and cyclists move safely?",
+      "ageGroup": "6-12",
+      "skillFocus": "Systems & Civic Care",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "Wooden Traffic Sign Blocks & Chalk Road-Marking Stencil",
+      "qrVideoTitle": "How Cities Make Streets Safe for Walking and Cycling",
+      "qrVideoDuration": "3 min 50 sec",
+      "safetyNote": "Always walk street audits alongside an adult; adult help needed for cutting foam or cardboard street bases.",
+      "materialsNeeded": [
+        "Large flattened carton sheet for street base",
+        "Bottle caps, matchboxes, and paper strips",
+        "Glue, wooden ruler, and pencils"
+      ],
+      "skillsDeveloped": [
+        "Civic observation & public safety thinking",
+        "Cause-and-effect systems mapping",
+        "Iconographic signage clarity",
+        "Collaborative community perspective"
+      ],
+      "missionSteps": [
+        "Read the pedestrian letter and list who uses a street daily.",
+        "Take a supervised 15-minute safety walk down your lane.",
+        "Mark tricky crossings, puddles, and parked vehicle bottlenecks.",
+        "Measure comfortable footpath widths for strollers and elders.",
+        "Design clear zebra crossings and speed-table humps.",
+        "Add shaded street trees and bus-stop seating.",
+        "Place bright, readable street signs at eye height.",
+        "Plan dedicated cycle lanes separated from fast traffic.",
+        "Lay out the cardboard street grid (adult help for trimming).",
+        "Build 3D crossings, trees, and bus shelters.",
+        "Walk toy figures through your street to spot missed hazards.",
+        "Present your safer street to parents and neighbours for sign-off."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Footpath", "concept": "Raised, unobstructed walkway beside the road" },
+        { "id": 2, "word": "Zebra Crossing", "concept": "High-contrast stripes telling drivers to pause" },
+        { "id": 3, "word": "Blind Spot", "concept": "A sharp corner where oncoming movement hides" },
+        { "id": 4, "word": "Speed Table", "concept": "Flat raised hump slowing cars near schools" },
+        { "id": 5, "word": "Cycle Track", "concept": "Safe lane reserved for bicycles" },
+        { "id": 6, "word": "Streetlamp", "concept": "Evening light keeping walkways welcoming" },
+        { "id": 7, "word": "Bollard", "concept": "Short sturdy post stopping cars from parking on walks" },
+        { "id": 8, "word": "Tree Pit", "concept": "Open soil circle feeding shade trees" },
+        { "id": 9, "word": "Wayfinding", "concept": "Arrows and signs helping visitors navigate" },
+        { "id": 10, "word": "Bus Bay", "concept": "Sheltered bench where commuters wait safely" },
+        { "id": 11, "word": "Drainage Grate", "concept": "Slots carrying monsoon rainwater away cleanly" },
+        { "id": 12, "word": "Public Realm", "concept": "Shared outdoor spaces belonging to everyone" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Street Safety Walk", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Walk with a parent and document real street hazards." },
+        { "week": 2, "title": "Re-drawing Flow", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Map footpaths, shade trees, and safe crossings." },
+        { "week": 3, "title": "Signs & Base", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Design signs and build the tabletop road base." },
+        { "week": 4, "title": "Test & Present", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Stress-test traffic flow and present for your Blue Badge." }
+      ],
+      "rating": 4.8,
+      "reviewCount": 34,
+      "reviews": [
+        {
+          "id": "r-m4-1",
+          "author": "Shruti Menon",
+          "city": "Kochi",
+          "childAge": "Age 11",
+          "rating": 5,
+          "comment": "My son now points out good footpaths and drainage grates everywhere we drive. Truly changes how kids see their city.",
+          "date": "August 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-05",
+      "month": 5,
+      "monthCode": "05",
+      "slug": "the-little-product-designer",
+      "title": "The Little Product Designer",
+      "shortTitle": "Product Designer",
+      "colourName": "Yellow",
+      "heroHex": "#EAB308",
+      "heroLightHex": "#FEFCE8",
+      "heroTextOnColor": "#2B231D",
+      "motif": "product",
+      "tagline": "Fix an everyday home problem",
+      "missionGoal": "Spot a small daily annoyance at home—tangled chargers, scattered keys, or messy study pencils—sketch three ideas, and prototype a working organizer.",
+      "clientRole": "Busy Parent at Home",
+      "clientLetterTeaser": "Dear Product Designer, every morning we hunt for house keys, spectacles, or tangled charging wires! Can you invent one clever tabletop organizer that solves this cleanly?",
+      "ageGroup": "6-12",
+      "skillFocus": "Problem Solving & Prototyping",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "Kraft Prototyping Tabs, Brass Split Pins & Felt Pads",
+      "qrVideoTitle": "Prototype Like a Product Designer: Test, Break, Improve",
+      "qrVideoDuration": "3 min 35 sec",
+      "safetyNote": "Adult help required when cutting thick cardboard slots or punching holes for split pins.",
+      "materialsNeeded": [
+        "Cardboard tubes, cereal box, and paper clips",
+        "Glue, masking tape, and safety scissors",
+        "Real objects to test (keys, pens, spectacles)"
+      ],
+      "skillsDeveloped": [
+        "Everyday problem identification",
+        "Rapid sketching of 3 distinct concepts",
+        "Iterative prototyping & user testing",
+        "Designing for durability & reach"
+      ],
+      "missionSteps": [
+        "Read the parent brief and shadow one morning rush hour.",
+        "List 5 small home friction points you notice.",
+        "Pick one clear problem and measure the items it holds.",
+        "Sketch 3 wildly different organizer shapes.",
+        "Compare your 3 ideas with your client and pick the winner.",
+        "Draw exact slot sizes and weight balance.",
+        "Build a quick rough paper mock-up in 15 minutes.",
+        "Test real keys or spectacles—see where it tips or snags.",
+        "Refine your second version using sturdy cardboard (adult cut help).",
+        "Add felt base pads and smooth labelled compartments.",
+        "Place it in real daily use for 3 days.",
+        "Collect feedback, tweak once more, and earn your Yellow Badge."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Prototype", "concept": "A quick working test model made before final craft" },
+        { "id": 2, "word": "Friction", "concept": "A tiny daily hassle waiting for a thoughtful fix" },
+        { "id": 3, "word": "Iteration", "concept": "Making Version 2 better after testing Version 1" },
+        { "id": 4, "word": "Grip", "concept": "Shaping handles or slots to fit human hands" },
+        { "id": 5, "word": "Stability", "concept": "A wide base that never tips over" },
+        { "id": 6, "word": "Slot", "concept": "A measured cutout holding cables or cards upright" },
+        { "id": 7, "word": "Tolerance", "concept": "Leaving just enough wiggle room so parts fit" },
+        { "id": 8, "word": "User Test", "concept": "Watching someone try your product without hints" },
+        { "id": 9, "word": "Modular", "concept": "Dividers you can slide or rearrange later" },
+        { "id": 10, "word": "Finish", "concept": "Neat taped edges and soft felt bases" },
+        { "id": 11, "word": "Joint", "concept": "Interlocking notches that hold without glue" },
+        { "id": 12, "word": "Brief", "concept": "The exact goal agreed upon with your client" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Hunt the Hassle", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Observe morning routines and measure everyday objects." },
+        { "week": 2, "title": "Three Concepts", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Sketch 3 ideas and choose the strongest with your parent." },
+        { "week": 3, "title": "Mockup & Test", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Build Version 1, test stability, and upgrade to Version 2." },
+        { "week": 4, "title": "Real-World Trial", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Put it by the door for 3 days and earn your sign-off." }
+      ],
+      "rating": 4.9,
+      "reviewCount": 38,
+      "reviews": [
+        {
+          "id": "r-m5-1",
+          "author": "Vikram Joshi",
+          "city": "Ahmedabad",
+          "childAge": "Age 10",
+          "rating": 5,
+          "comment": "We still use the cardboard key-and-spectacles dock she built six months ago. Best learning moment was when Version 1 tipped over!",
+          "date": "September 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-06",
+      "month": 6,
+      "monthCode": "06",
+      "slug": "the-little-engineer",
+      "title": "The Little Engineer",
+      "shortTitle": "Engineer",
+      "colourName": "Orange",
+      "heroHex": "#F97316",
+      "heroLightHex": "#FFF5ED",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "engineer",
+      "tagline": "Build a bridge that holds",
+      "missionGoal": "Discover why triangles beat squares in strength, engineer a 30cm span bridge from paper and craft sticks, and load-test it with household coins or books.",
+      "clientRole": "Village Toy-Train & Crossing Authority",
+      "clientLetterTeaser": "Dear Little Engineer, heavy monsoon waters washed out the footbridge across our model stream. Can you build a strong 30cm bridge that carries cargo without sagging?",
+      "ageGroup": "6-12",
+      "skillFocus": "Structural Mechanics",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "40 Wooden Craft Sticks & 100g Brass Test Weights Pouch",
+      "qrVideoTitle": "Triangles, Trusses & Tension: Why Bridges Don't Collapse",
+      "qrVideoDuration": "4 min 15 sec",
+      "safetyNote": "Adult help needed when trimming craft sticks or testing heavy book loads over toes.",
+      "materialsNeeded": [
+        "Craft sticks (included) & thick paper strips",
+        "Two stackable books as riverbanks 30cm apart",
+        "Glue, masking tape, and coins for load testing"
+      ],
+      "skillsDeveloped": [
+        "Understanding compression, tension & trusses",
+        "Fair load-testing & recording data",
+        "Strengthening weak joints thoughtfully",
+        "Perseverance through structural failure"
+      ],
+      "missionSteps": [
+        "Open the engineering brief and set your 30cm river gap.",
+        "Test how a flat sheet of paper bends under one coin.",
+        "Fold paper into pleats and triangles—compare strength.",
+        "Learn beam, arch, and truss bridge styles.",
+        "Sketch side trusses and deck beams on graph paper.",
+        "Build 2 strong bridge piers (abutments) on each bank.",
+        "Assemble side triangle frames using craft sticks.",
+        "Connect top and bottom chords cleanly with tape and glue.",
+        "Let joints dry overnight for peak strength.",
+        "Run Step-by-Step Load Test 1 and note any flexing.",
+        "Reinforce the weakest triangle with gusset plates.",
+        "Pass the final heavy cargo test and earn your Orange Badge."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Truss", "concept": "Linked triangles sharing heavy loads evenly" },
+        { "id": 2, "word": "Span", "concept": "The open distance between two bridge banks" },
+        { "id": 3, "word": "Compression", "concept": "Pushing force squeezing parts together" },
+        { "id": 4, "word": "Tension", "concept": "Pulling force stretching cables or bottom beams" },
+        { "id": 5, "word": "Abutment", "concept": "Solid end wall supporting the bridge weight" },
+        { "id": 6, "word": "Deck", "concept": "The flat road where walkers or trains cross" },
+        { "id": 7, "word": "Arch", "concept": "Curved stone or paper form pushing weight outward" },
+        { "id": 8, "word": "Gusset", "concept": "Small corner patch locking stick joints tight" },
+        { "id": 9, "word": "Load Test", "concept": "Adding weights slowly to measure strength" },
+        { "id": 10, "word": "Buckle", "concept": "When a thin strut bends sideways under weight" },
+        { "id": 11, "word": "Beam", "concept": "Horizontal bar carrying weight across a gap" },
+        { "id": 12, "word": "Factor of Safety", "concept": "Building extra strength beyond the minimum" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Shape Strength Lab", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Fold paper experiments showing why triangles stay rigid." },
+        { "week": 2, "title": "Bridge Blueprint", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Sketch truss spans and prepare bank piers." },
+        { "week": 3, "title": "Truss Assembly", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Construct craft-stick trusses and allow clean drying." },
+        { "week": 4, "title": "Load Test Day", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Test weights, reinforce weak spots, and earn sign-off." }
+      ],
+      "rating": 5.0,
+      "reviewCount": 45,
+      "reviews": [
+        {
+          "id": "r-m6-1",
+          "author": "Deepak Verma",
+          "city": "Delhi NCR",
+          "childAge": "Age 11",
+          "rating": 5,
+          "comment": "His craft-stick bridge held 1.8 kg of storybooks without sagging! The whole family cheered during the load test.",
+          "date": "October 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-07",
+      "month": 7,
+      "monthCode": "07",
+      "slug": "the-little-graphic-designer",
+      "title": "The Little Graphic Designer",
+      "shortTitle": "Graphic Designer",
+      "colourName": "Pink",
+      "heroHex": "#EC4899",
+      "heroLightHex": "#FDF2F8",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "graphic",
+      "tagline": "Create a sign for a local shop",
+      "missionGoal": "Visit a local kirana, bakery, tailor, or fruit cart, craft an unforgettable logo icon and clear hand-lettered signboard, and present it to the shopkeeper.",
+      "clientRole": "Neighbourhood Shopkeeper or Home Baker",
+      "clientLetterTeaser": "Dear Graphic Designer, passersby walk right past my small shop without noticing fresh homemade snacks inside. Can you design a cheerful signboard people can read from across the lane?",
+      "ageGroup": "6-12",
+      "skillFocus": "Visual Communication",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "Dual-Tip Brush Lettering Pens & Alphabet Grid Stencil",
+      "qrVideoTitle": "Bold Letters, Simple Symbols & Readable Shop Signs",
+      "qrVideoDuration": "3 min 30 sec",
+      "safetyNote": "Visit local shopkeepers with a parent; adult help required when cutting stiff signboard backing.",
+      "materialsNeeded": [
+        "Thick A3 chart paper or corrugated cardboard panel",
+        "Brush pens (included), colour pencils, and ruler",
+        "Twine or tape for hanging display"
+      ],
+      "skillsDeveloped": [
+        "Typography & legibility from a distance",
+        "Distilling ideas into simple icons",
+        "Contrast & visual hierarchy",
+        "Real-world community confidence"
+      ],
+      "missionSteps": [
+        "Read the shopkeeper letter and pick a real neighbourhood shop.",
+        "Walk past local boards and spot which signs read easiest.",
+        "Interview the shopkeeper about their best-loved item.",
+        "Draw 6 quick thumbnail logo marks in small squares.",
+        "Test thick vs thin hand-lettering styles on grid paper.",
+        "Check contrast—can your parents read it from 5 metres away?",
+        "Arrange title, icon, and opening hours in clear order.",
+        "Pick two bold brand colours that fit the shop.",
+        "Rule crisp guidelines and ink your final A3 signboard.",
+        "Cut and mount onto sturdy backing (with adult help).",
+        "Deliver and present your signboard to the shopkeeper.",
+        "Snap a keepsake memory photo and get your certificate signed."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Typography", "concept": "Shaping letters so words read clearly and warmly" },
+        { "id": 2, "word": "Logo Mark", "concept": "One simple picture people remember right away" },
+        { "id": 3, "word": "Contrast", "concept": "Dark ink on bright paper so signs pop from afar" },
+        { "id": 4, "word": "Hierarchy", "concept": "Making the shop name biggest and hours smaller" },
+        { "id": 5, "word": "Margin", "concept": "Clean breathing space around the board edge" },
+        { "id": 6, "word": "Thumbnail", "concept": "Tiny rough sketch used to test ideas fast" },
+        { "id": 7, "word": "Icon", "concept": "A universal picture showing bread, tailor, or fruit" },
+        { "id": 8, "word": "Baseline", "concept": "The invisible line where letters sit neatly" },
+        { "id": 9, "word": "Kerning", "concept": "Even spacing between letters in a word" },
+        { "id": 10, "word": "Signage", "concept": "Boards guiding walkers to shops and doors" },
+        { "id": 11, "word": "Palette", "concept": "Signature brand colours used everywhere" },
+        { "id": 12, "word": "Proof", "concept": "Checking spelling carefully before final ink" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Sign Hunt & Interview", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Spot readable street signs and talk to your local shopkeeper." },
+        { "week": 2, "title": "Icons & Lettering", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Sketch 6 logo ideas and test distance readability." },
+        { "week": 3, "title": "Layout & Inking", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Rule guidelines and craft the bold final signboard." },
+        { "week": 4, "title": "Shop Delivery", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Mount the board, deliver it to your client, and earn your Pink Badge." }
+      ],
+      "rating": 4.9,
+      "reviewCount": 31,
+      "reviews": [
+        {
+          "id": "r-m7-1",
+          "author": "Pooja Shetty",
+          "city": "Mangaluru",
+          "childAge": "Age 9",
+          "rating": 5,
+          "comment": "Our friendly neighbourhood flower seller actually hung up my daughter's laminated signboard on her stall. Unforgettable confidence boost.",
+          "date": "August 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-08",
+      "month": 8,
+      "monthCode": "08",
+      "slug": "the-little-fashion-designer",
+      "title": "The Little Fashion Designer",
+      "shortTitle": "Fashion Designer",
+      "colourName": "Teal",
+      "heroHex": "#14B8A6",
+      "heroLightHex": "#F0FDFA",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "fashion",
+      "tagline": "Upcycle old clothes into new",
+      "missionGoal": "Rescue outgrown cotton shirts or sarees, learn running-stitch hand sewing and block stamping, and transform fabric into a wearable tote or apron.",
+      "clientRole": "Family Cook or Young Gardener",
+      "clientLetterTeaser": "Dear Fashion Designer, my cupboard has soft cotton kurtas that are too faded to wear out, yet too good to throw away. Can you upcycle one into a useful pocketed apron or book tote?",
+      "ageGroup": "6-12",
+      "skillFocus": "Textile Craft & Upcycling",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "Blunt Tapestry Needles, Cotton Embroidery Thread & Wooden Block Stamp",
+      "qrVideoTitle": "Zero-Waste Tailoring: Simple Stitches & Fabric Patterns",
+      "qrVideoDuration": "4 min 10 sec",
+      "safetyNote": "Adult help required when cutting old garments with fabric shears and threading needles.",
+      "materialsNeeded": [
+        "1 outgrown cotton T-shirt, shirt, or old dupatta",
+        "Tapestry needle & thread (included)",
+        "Fabric-safe poster paint or crayon for block print"
+      ],
+      "skillsDeveloped": [
+        "Fine motor hand-stitching control",
+        "Pattern pinning & zero-waste cutting",
+        "Appreciating slow textiles & repair",
+        "Functional pocket & strap design"
+      ],
+      "missionSteps": [
+        "Open the client letter and inspect old clean cotton garments.",
+        "Feel woven cotton vs stretchy knit fabric grain.",
+        "Sketch your apron or tote with helpful pockets.",
+        "Pin paper pattern pieces over the shirt to waste nothing.",
+        "Cut along chalk lines (adult supervision on fabric scissors).",
+        "Stamp repeating leaf patterns using the wooden block.",
+        "Practice a neat running stitch on a scrap square.",
+        "Fold clean hems so raw fabric threads never fray.",
+        "Stitch the pocket onto the front panel securely.",
+        "Attach comfortable wide straps or waist ties.",
+        "Test-fit on your client and check pocket reach.",
+        "Present the upcycled piece and earn your Teal Badge."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Upcycle", "concept": "Turning old cloth into something even more useful" },
+        { "id": 2, "word": "Pattern", "concept": "Paper shape traced onto fabric before cutting" },
+        { "id": 3, "word": "Running Stitch", "concept": "Simple in-and-out sewing line holding cloth" },
+        { "id": 4, "word": "Hem", "concept": "Folded edge tucked neatly so threads stay tidy" },
+        { "id": 5, "word": "Weave", "concept": "Crisscrossing warp and weft yarns making cloth" },
+        { "id": 6, "word": "Block Print", "concept": "Carved wood dipped in colour and pressed on cotton" },
+        { "id": 7, "word": "Seam", "concept": "Line where two fabric pieces are joined together" },
+        { "id": 8, "word": "Patch", "concept": "Strong cloth square covering or decorating wear" },
+        { "id": 9, "word": "Draping", "concept": "Checking how soft cloth folds around the body" },
+        { "id": 10, "word": "Loom", "concept": "Traditional wooden frame weaving yarn into saree cloth" },
+        { "id": 11, "word": "Selvedge", "concept": "Factory-finished crisp edge along fabric rolls" },
+        { "id": 12, "word": "Care Label", "concept": "Washing note helping handmade clothes last years" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Closet Rescue", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Select clean old cotton clothes and sketch your design." },
+        { "week": 2, "title": "Pattern & Print", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Cut patterns with adult help and block-print motifs." },
+        { "week": 3, "title": "Stitch & Hem", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Learn running stitch, fold hems, and attach pockets." },
+        { "week": 4, "title": "Fitting & Parade", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Tie straps, test comfort, and earn your Teal Badge." }
+      ],
+      "rating": 4.9,
+      "reviewCount": 29,
+      "reviews": [
+        {
+          "id": "r-m8-1",
+          "author": "Neha Kapoor",
+          "city": "Mumbai",
+          "childAge": "Age 8",
+          "rating": 5,
+          "comment": "My 8-year-old turned my husband's old striped shirt into a gardening apron with two pockets. He is so proud of his stitches!",
+          "date": "September 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-09",
+      "month": 9,
+      "monthCode": "09",
+      "slug": "the-little-eco-designer",
+      "title": "The Little Eco Designer",
+      "shortTitle": "Eco Designer",
+      "colourName": "Dark Green",
+      "heroHex": "#2E6F40",
+      "heroLightHex": "#EDF5EF",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "eco",
+      "tagline": "Halve your home waste",
+      "missionGoal": "Conduct a clean kitchen-and-study waste audit for three days, design a three-bin sorting station, and convert paper scraps into handmade seed paper.",
+      "clientRole": "Your Whole Household",
+      "clientLetterTeaser": "Dear Eco Designer, our household dustbin fills up too quickly every week! Can you investigate what fills it up and design a clear sorting and reuse system our whole family follows?",
+      "ageGroup": "6-12",
+      "skillFocus": "Circular Thinking",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "Mesh Screen Frame for Handmade Paper & Sorting Bin Labels",
+      "qrVideoTitle": "Circular Homes: Wet Waste, Dry Waste, and Making Paper",
+      "qrVideoDuration": "3 min 55 sec",
+      "safetyNote": "Adult help required when blending soaked waste paper pulp or handling kitchen wet waste.",
+      "materialsNeeded": [
+        "Scrap office/school paper & kitchen blender (adult operated)",
+        "3 existing cartons or baskets for sorting station",
+        "Cotton cloth and sponge"
+      ],
+      "skillsDeveloped": [
+        "Data counting & before/after comparison",
+        "Circular lifecycle thinking",
+        "Habit design for family members",
+        "Hands-on paper recycling craft"
+      ],
+      "missionSteps": [
+        "Read the household brief and weigh or count 1 day of dry trash.",
+        "Sort waste cleanly into Wet, Clean Dry, and Reject piles.",
+        "Discover the single biggest item filling your home bin.",
+        "Design clear picture-and-word labels for 3 home bins.",
+        "Set up a reusable cloth-bag hook right by the front door.",
+        "Plan a kitchen peel-collection bowl for garden compost.",
+        "Soak torn scrap paper overnight in water.",
+        "Blend paper pulp (adult operates mixer) and spread on mesh.",
+        "Press out water with a sponge and sun-dry handmade sheets.",
+        "Track household bin volume for 5 days after your changes.",
+        "Chart your waste reduction percentage on the Mission Sheet.",
+        "Present the 5-day score to your family and earn your badge."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Segregate", "concept": "Keeping wet kitchen peels separate from dry paper" },
+        { "id": 2, "word": "Audit", "concept": "Counting what enters the bin so we can shrink it" },
+        { "id": 3, "word": "Circular", "concept": "Turning yesterday's scrap into tomorrow's resource" },
+        { "id": 4, "word": "Pulp", "concept": "Soft soaked paper mashed ready to form new sheets" },
+        { "id": 5, "word": "Compost", "concept": "Wet peels transforming into dark garden soil" },
+        { "id": 6, "word": "Refill", "concept": "Reusing glass jars instead of buying new pouches" },
+        { "id": 7, "word": "Landfill", "concept": "Where mixed trash piles up when never sorted" },
+        { "id": 8, "word": "Deckle", "concept": "Screen frame catching wet pulp into flat sheets" },
+        { "id": 9, "word": "Biodegrade", "concept": "Breaking down naturally back into earth" },
+        { "id": 10, "word": "Repair", "concept": "Mending broken toys instead of tossing them" },
+        { "id": 11, "word": "Baseline", "concept": "Day 1 waste measurement before improvements" },
+        { "id": 12, "word": "Impact", "concept": "The real bags of trash saved over one month" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "The Bin Detective", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Count household waste and spot top throwaway culprits." },
+        { "week": 2, "title": "Sorting Station", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Label 3 family bins and set up cloth-bag reminders." },
+        { "week": 3, "title": "Paper Maker Lab", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Recycle scrap worksheets into thick handmade sheets." },
+        { "week": 4, "title": "Measure & Present", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Compare week-4 waste and celebrate with your family." }
+      ],
+      "rating": 4.9,
+      "reviewCount": 27,
+      "reviews": [
+        {
+          "id": "r-m9-1",
+          "author": "Siddharth Rao",
+          "city": "Bengaluru",
+          "childAge": "Age 10",
+          "rating": 5,
+          "comment": "Making recycled paper on our terrace was pure magic, and our dry waste dropped noticeably because our kids policed the labels!",
+          "date": "October 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-10",
+      "month": 10,
+      "monthCode": "10",
+      "slug": "the-little-folk-artist",
+      "title": "The Little Folk Artist",
+      "shortTitle": "Folk Artist",
+      "colourName": "Rust Red",
+      "heroHex": "#B84A39",
+      "heroLightHex": "#FAF0EE",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "folk",
+      "tagline": "Craft inspired by Karnataka heritage",
+      "missionGoal": "Explore Karnataka's rich heritage—Channapatna wooden lacquer forms, Chittara geometric wall art, and Kasuti embroidery grids—and paint a festive heritage keepsake.",
+      "clientRole": "Visiting Aunt, Uncle or Family Home",
+      "clientLetterTeaser": "Dear Folk Artist, festivals feel extra special when handmade art greets guests at our doorway. Can you create a geometric wall-hanging inspired by Karnataka's Chittara and Channapatna artisans?",
+      "ageGroup": "6-12",
+      "skillFocus": "Cultural Heritage & Geometry",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "Unpainted Channapatna Wooden Bead & Spinner Set + Fine Detail Brush",
+      "qrVideoTitle": "Inside Karnataka's Crafts: Chittara Grids & Channapatna Woodwork",
+      "qrVideoDuration": "4 min 20 sec",
+      "safetyNote": "Adult help required when punching hanging cord holes in thick board or handling terracotta paints.",
+      "materialsNeeded": [
+        "Heavy kraft mounting board (included)",
+        "White & terracotta tempera or acrylic craft paint",
+        "Cotton earbuds for dot work, ruler, and twine"
+      ],
+      "skillsDeveloped": [
+        "Respect for Indian artisan traditions",
+        "Geometric dot-grid symmetry",
+        "Fine brush and cotton-bud precision",
+        "Storytelling through folk motifs"
+      ],
+      "missionSteps": [
+        "Open the heritage letter and locate Karnataka craft towns on the map.",
+        "Study Chittara dot-and-line patterns drawn with rice paste.",
+        "Explore smooth turned-wood shapes of Channapatna toys.",
+        "Practice symmetric diamond and lotus grids on dot sheets.",
+        "Learn traditional red-ochre and cream contrast.",
+        "Design a folk motif representing nature around your home.",
+        "Draw your light pencil grid onto the heavy kraft plaque.",
+        "Paint the warm rust-red background evenly.",
+        "Stamp crisp cream rice-paste style dots and geometric borders.",
+        "Paint and string the wooden Channapatna beads below (adult help on knots).",
+        "Write an artisan card explaining your symbol's story.",
+        "Hang at your home entrance and earn your Rust Red Badge."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Chittara", "concept": "Symmetric folk wall art painted with rice paste" },
+        { "id": 2, "word": "Channapatna", "concept": "Karnataka town famous for smooth lacquered wood toys" },
+        { "id": 3, "word": "Kasuti", "concept": "Counted geometric embroidery stitched without knots" },
+        { "id": 4, "word": "Symmetry", "concept": "Mirror-balanced shapes on left and right sides" },
+        { "id": 5, "word": "Ochre", "concept": "Warm earthy red pigment dug from mineral clay" },
+        { "id": 6, "word": "Motif", "concept": "A repeating peacock, sun, or paddy pattern" },
+        { "id": 7, "word": "Artisan", "concept": "A master maker keeping generations of craft alive" },
+        { "id": 8, "word": "Grid", "concept": "Evenly spaced dots guiding steady geometric lines" },
+        { "id": 9, "word": "Lacquer", "concept": "Natural tree resin giving wooden toys glossy colour" },
+        { "id": 10, "word": "Border", "concept": "Protective patterned frame around central art" },
+        { "id": 11, "word": "Heritage", "concept": "Skills and stories handed down through families" },
+        { "id": 12, "word": "Tassel", "concept": "Bundled cotton threads finishing a wall hanging" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Discover Karnataka Craft", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Explore Chittara, Channapatna, and Kasuti patterns." },
+        { "week": 2, "title": "Dot-Grid Geometry", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Sketch symmetric lotus and geometric motifs on grids." },
+        { "week": 3, "title": "Ochre & Brushwork", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Paint the plaque base and crisp geometric dots." },
+        { "week": 4, "title": "Beads & Story Card", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Attach Channapatna beads, present your piece, earn badge." }
+      ],
+      "rating": 5.0,
+      "reviewCount": 36,
+      "reviews": [
+        {
+          "id": "r-m10-1",
+          "author": "Kavitha Hegde",
+          "city": "Mysuru",
+          "childAge": "Age 9",
+          "rating": 5,
+          "comment": "So refreshing to see Karnataka's Chittara and Channapatna art taught thoughtfully to kids alongside geometry. Still hanging in our foyer.",
+          "date": "October 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-11",
+      "month": 11,
+      "monthCode": "11",
+      "slug": "the-little-storyteller",
+      "title": "The Little Storyteller",
+      "shortTitle": "Storyteller",
+      "colourName": "Indigo",
+      "heroHex": "#4F46E5",
+      "heroLightHex": "#EEF2FF",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "storyteller",
+      "tagline": "Bind a grandparent memory book",
+      "missionGoal": "Interview a grandparent about their childhood games, favourite monsoon food, and school days, then illustrate and stitch-bind a hardcover memory book.",
+      "clientRole": "Grandmother or Grandfather",
+      "clientLetterTeaser": "Dear Storyteller, before memories fade, I would love to share what childhood tasted and sounded like when I was nine. Will you illustrate and bind our family's very own storybook?",
+      "ageGroup": "6-12",
+      "skillFocus": "Listening & Bookcraft",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "Bookbinding Waxed Linen Thread, Bone-Style Creaser & Kraft Covers",
+      "qrVideoTitle": "How Books Are Bound & How to Ask Great Interview Questions",
+      "qrVideoDuration": "3 min 45 sec",
+      "safetyNote": "Adult help required when poking spine binding holes through folded signature pages.",
+      "materialsNeeded": [
+        "Blank cream inner pages & kraft cover boards (included)",
+        "Waxed binding thread (included) & glue stick",
+        "Optional printed old family photograph"
+      ],
+      "skillsDeveloped": [
+        "Deep active listening & empathy",
+        "Structuring stories (beginning, middle, keepsake)",
+        "Traditional pamphlet bookbinding",
+        "Pairing illustrations with spoken quotes"
+      ],
+      "missionSteps": [
+        "Open the client letter and prepare 8 curious interview questions.",
+        "Sit with your grandparent and record their childhood stories.",
+        "Pick 4 vivid memories (home, school, game, favourite sweet).",
+        "Storyboard each memory across a 2-page spread.",
+        "Write short, warm captions in their exact words.",
+        "Illustrate scenes with pencil, crayon, or collage scraps.",
+        "Fold cream paper sheets neatly into a crisp book signature.",
+        "Crease the kraft cover spine using the folding tool.",
+        "Punch 3 binding holes (with an adult) and stitch the spine.",
+        "Paste an old family photo or hand-drawn portrait inside.",
+        "Design a front title page and dedication line.",
+        "Read the finished book aloud together for your Indigo Badge."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Oral History", "concept": "Capturing spoken family memories before they slip away" },
+        { "id": 2, "word": "Storyboard", "concept": "Tiny page boxes planning how a book flows" },
+        { "id": 3, "word": "Spine", "concept": "The stitched backbone holding every page together" },
+        { "id": 4, "word": "Signature", "concept": "A nested bundle of folded pages ready to sew" },
+        { "id": 5, "word": "Caption", "concept": "Short heartfelt words explaining a drawing" },
+        { "id": 6, "word": "Dedication", "concept": "Opening note naming who the book was made for" },
+        { "id": 7, "word": "Spread", "concept": "Left and right facing pages working as one scene" },
+        { "id": 8, "word": "Endpaper", "concept": "Patterned sheet lining the inside of a book cover" },
+        { "id": 9, "word": "Quote", "concept": "Exact funny or wise words your grandparent said" },
+        { "id": 10, "word": "Portrait", "concept": "Drawing someone's warm expression and glasses" },
+        { "id": 11, "word": "Archive", "concept": "Treasured keepsakes preserved safely for decades" },
+        { "id": 12, "word": "Launch Reading", "concept": "Sharing your new book aloud with family" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Tea-Time Interview", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Ask open questions and choose 4 unforgettable stories." },
+        { "week": 2, "title": "Storyboarding", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Plan spreads, write captions, and draw illustrations." },
+        { "week": 3, "title": "Stitch & Bind", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Fold signatures and hand-stitch the book with adult help." },
+        { "week": 4, "title": "Family Reading", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Finish covers, read aloud together, earn Indigo Badge." }
+      ],
+      "rating": 5.0,
+      "reviewCount": 44,
+      "reviews": [
+        {
+          "id": "r-m11-1",
+          "author": "Lakshmi Iyer",
+          "city": "Coimbatore",
+          "childAge": "Age 10",
+          "rating": 5,
+          "comment": "My father teared up when my son read back the chapter about walking barefoot to school in 1968. Priceless family heirloom.",
+          "date": "October 2026"
+        }
+      ]
+    },
+    {
+      "id": "month-12",
+      "month": 12,
+      "monthCode": "12",
+      "slug": "grand-mission-dream-town",
+      "title": "Grand Mission: Dream Town",
+      "shortTitle": "Dream Town",
+      "colourName": "Kraft Brown",
+      "heroHex": "#8B5A2B",
+      "heroLightHex": "#F5ECE2",
+      "heroTextOnColor": "#FFFFFF",
+      "motif": "dreamtown",
+      "tagline": "Design a whole town using all 11 skills",
+      "missionGoal": "Unite everything learned across Months 01–11—homes, cosy libraries, bird parks, safe streets, bridges, shop signs, folk murals, and waste stations—into one grand tabletop town.",
+      "clientRole": "The Future Residents of Dream Town",
+      "clientLetterTeaser": "Dear Master Designer, you have designed homes, bridges, gardens, shops, and stories. Now your town council invites you to bring all eleven disciplines together into one joyful, sustainable Dream Town!",
+      "ageGroup": "6-12",
+      "skillFocus": "Capstone Integration",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "monthlyToolItem": "Fold-Out Town Map Base & Brass Master Designer Medallion Seal",
+      "qrVideoTitle": "Grand Finale: Bringing All 11 Design Disciplines Together",
+      "qrVideoDuration": "4 min 30 sec",
+      "safetyNote": "Adult help required when cutting cardboard town landmarks and assembling bridge spans.",
+      "materialsNeeded": [
+        "Fold-out town map base (included) + your 11 folders for reference",
+        "Cardboard scraps, craft sticks, bottle caps, and leaves",
+        "Scissors, ruler, glue, and colour pencils"
+      ],
+      "skillsDeveloped": [
+        "Cross-disciplinary systems synthesis",
+        "Project planning across 4 full weeks",
+        "Balancing nature, people & infrastructure",
+        "Confident exhibition presentation"
+      ],
+      "missionSteps": [
+        "Open the Grand Mission letter and lay out all 11 previous badges.",
+        "Name your Dream Town and choose its river, hills, and climate.",
+        "Zone neighbourhoods: homes, schools, markets, and parks.",
+        "Apply Architect & Interior rules to design 3 key town buildings.",
+        "Apply Urban Planner & Engineer skills for roads and river bridge.",
+        "Add a Landscape Designer bird sanctuary and shaded market square.",
+        "Create Graphic Designer shop signs and Eco waste stations.",
+        "Paint a Folk Artist town archway celebrating local craft.",
+        "Craft cardboard landmarks on the fold-out map (adult cut help).",
+        "Write a mini town guidebook using Storyteller binding skills.",
+        "Set up a living-room exhibition tour for friends and family.",
+        "Earn your final Dream Town Badge and Master Designer sign-off."
+      ],
+      "cardPairs": [
+        { "id": 1, "word": "Masterplan", "concept": "Big map coordinating buildings, parks, and roads" },
+        { "id": 2, "word": "Zoning", "concept": "Placing noisy markets and quiet homes thoughtfully" },
+        { "id": 3, "word": "Watershed", "concept": "Protecting rivers and rainwater ponds across town" },
+        { "id": 4, "word": "Commons", "concept": "Shared parks and libraries open to every citizen" },
+        { "id": 5, "word": "Landmark", "concept": "Iconic clocktower, tree, or bridge everyone knows" },
+        { "id": 6, "word": "Connectivity", "concept": "Walkways and bridges linking every neighbourhood" },
+        { "id": 7, "word": "Civic Pride", "concept": "Keeping streets clean, green, and welcoming" },
+        { "id": 8, "word": "Resilience", "concept": "Designing towns ready for summer heat and monsoons" },
+        { "id": 9, "word": "Exhibition", "concept": "Inviting guests to walk around your finished model" },
+        { "id": 10, "word": "Portfolio", "concept": "All 12 colourful folders collected in one binder" },
+        { "id": 11, "word": "Charter", "concept": "Three golden rules citizens agree to care for" },
+        { "id": 12, "word": "Graduation", "concept": "Completing the year as a true Little Designer" }
+      ],
+      "weeklyPlan": [
+        { "week": 1, "title": "Land & Masterplan", "cardPairs": "Cards 1–3", "missionSteps": "Steps 1–3", "summary": "Map rivers, climate, and town zones on the fold-out sheet." },
+        { "week": 2, "title": "Homes, Roads & Bridge", "cardPairs": "Cards 4–6", "missionSteps": "Steps 4–6", "summary": "Integrate architecture, bird parks, and bridge crossings." },
+        { "week": 3, "title": "Signs, Folk Arch & Eco", "cardPairs": "Cards 7–9", "missionSteps": "Steps 7–9", "summary": "Craft landmarks, shop signs, folk gates, and waste stations." },
+        { "week": 4, "title": "Town Exhibition", "cardPairs": "Cards 10–12", "missionSteps": "Steps 10–12", "summary": "Host a family town tour and earn Master graduation." }
+      ],
+      "rating": 5.0,
+      "reviewCount": 32,
+      "reviews": [
+        {
+          "id": "r-m12-1",
+          "author": "Arvind Krishnan",
+          "city": "Bengaluru",
+          "childAge": "Age 11",
+          "rating": 5,
+          "comment": "Seeing all 12 coloured folders lined up on his shelf—and the tabletop Dream Town spread across our dining table—was a milestone we will always treasure.",
+          "date": "November 2026"
+        }
+      ]
+    }
+  ],
+  "combos": [
+    {
+      "id": "combo-explorer",
+      "slug": "explorer-combo-3-months",
+      "name": "Explorer Combo",
+      "subtitle": "Months 01 to 03 · Foundation Trilogy",
+      "monthsLabel": "Months 1–3 (Architect, Interior, Landscape)",
+      "monthsIncluded": [1, 2, 3],
+      "shippingRhythm": "All 3 folders + Starter Kit ship together in one kraft box",
+      "includesStarterKit": true,
+      "hasGiftBox": false,
+      "hasMasterCertificate": false,
+      "ageGroup": "6-12",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "savingsNote": "Includes Starter Kit",
+      "description": "An ideal introduction to The Little Designer series. Covers home architecture, cosy reading corners, and balcony bird gardens across three joyful months.",
+      "highlights": [
+        "Months 01, 02, and 03 full kraft folders",
+        "Free Starter Kit included in the box",
+        "3 sealed client letters & 72 word-and-colouring cards",
+        "Single upfront shipment across India"
+      ],
+      "rating": 4.9,
+      "reviewCount": 54
+    },
+    {
+      "id": "combo-designer",
+      "slug": "designer-combo-6-months",
+      "name": "Designer Combo",
+      "subtitle": "Months 01 to 06 · Half-Year Studio",
+      "monthsLabel": "Months 1–6 (Through The Little Engineer)",
+      "monthsIncluded": [1, 2, 3, 4, 5, 6],
+      "shippingRhythm": "Months 1–3 + Starter Kit ship now; Months 4–6 ship in Month 4",
+      "includesStarterKit": true,
+      "hasGiftBox": false,
+      "hasMasterCertificate": false,
+      "ageGroup": "6-12",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "savingsNote": "Most Popular",
+      "description": "Six rich months taking your child from designing homes and gardens to planning safer streets, inventing tabletop products, and load-testing bridges.",
+      "highlights": [
+        "Months 01 through 06 complete colour-coded folders",
+        "Free Starter Kit included in Box 1",
+        "Covers spatial, civic, product & structural engineering",
+        "Convenient two-part dispatch to keep excitement fresh"
+      ],
+      "rating": 4.9,
+      "reviewCount": 71
+    },
+    {
+      "id": "combo-master",
+      "slug": "master-designer-box-12-months",
+      "name": "Master Designer Box",
+      "subtitle": "All 12 Months · Complete Keepsake Series",
+      "monthsLabel": "Months 1–12 (Includes Grand Mission: Dream Town)",
+      "monthsIncluded": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "shippingRhythm": "Ships quarterly (3 folders per quarter) starting with Starter Kit & Gift Box",
+      "includesStarterKit": true,
+      "hasGiftBox": true,
+      "hasMasterCertificate": true,
+      "ageGroup": "6-12",
+      "priceInr": null,
+      "pricePlaceholder": "₹[PRICE]",
+      "savingsNote": "Full Year + Gift Box",
+      "description": "The complete 12-month journey forming a full colour-coded portfolio binder. Arrives quarterly in keepsake kraft packaging and culminates in the Master Designer Certificate.",
+      "highlights": [
+        "All 12 colour-coded collections forming the full binder spine",
+        "Free Starter Kit + Keepsake Kraft Gift Box in Quarter 1",
+        "Official Gold-Foil Master Designer Graduation Certificate",
+        "Quarterly shipping rhythm (Months 1–3, 4–6, 7–9, 10–12)"
+      ],
+      "rating": 5.0,
+      "reviewCount": 63
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "parentName": "Ananya Deshmukh",
+      "role": "Parent of Aarav (Age 8)",
+      "city": "Pune",
+      "childInfo": "Completed Months 1–4",
+      "monthCompleted": "Month 01: The Little Architect",
+      "quote": "Before Jotter & Potter, weekends meant negotiating tablet time. After opening his sealed client letter, Aarav spent two hours measuring his grandmother's verandah and sketching ramps so she wouldn't have to climb steps."
+    },
+    {
+      "id": "t2",
+      "parentName": "Vikram Joshi",
+      "role": "Parent of Ira (Age 10)",
+      "city": "Ahmedabad",
+      "childInfo": "Designer Combo Subscriber",
+      "monthCompleted": "Month 05: The Little Product Designer",
+      "quote": "What sets these apart from ordinary craft kits is the real client step. Having to explain her organizer prototype and fix why Version 1 tipped over taught Ira resilience without a single lecture."
+    },
+    {
+      "id": "t3",
+      "parentName": "Kavitha Hegde",
+      "role": "Parent of Siddharth (Age 9)",
+      "city": "Mysuru",
+      "childInfo": "Master Designer Box",
+      "monthCompleted": "Month 10: The Little Folk Artist",
+      "quote": "Seeing Indian contexts—Channapatna wood, terracotta roofs, local kirana signboards, and grandparent interviews—made our son look at his own neighbourhood with genuine curiosity."
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "category": "Age & Safety",
+      "question": "Is The Little Designer right for both 6-year-olds and 12-year-olds?",
+      "answer": "Yes. Younger makers (ages 6–8) lean on the 24 picture-and-word cards, large colouring grids, and building side-by-side with a parent. Older children (ages 9–12) dive deeper into scaled measurements, client interviews, load-testing data, and independent prototyping."
+    },
+    {
+      "id": "faq-2",
+      "category": "Age & Safety",
+      "question": "How much adult help is needed each week?",
+      "answer": "About 15–20 minutes on setup and cutting. Children handle drawing, matching cards, planning, and decorating on their own, while an adult assists whenever cutting thick cardboard walls, punching bookbinding holes, or blending recycled paper pulp."
+    },
+    {
+      "id": "faq-3",
+      "category": "Shipping",
+      "question": "How long does delivery take across India, and how do combos ship?",
+      "answer": "Single packs and Explorer Combos dispatch within 48 hours and reach metro cities in 3–5 business days (5–7 days across India). The Designer Combo ships in two batches (Months 1–3, then 4–6), and the Master Designer Box ships quarterly so fresh folders arrive right as your child finishes."
+    },
+    {
+      "id": "faq-4",
+      "category": "Packs & Combos",
+      "question": "Do we need to buy the Starter Kit separately?",
+      "answer": "If you order any Combo (Explorer, Designer, or Master Designer Box), the Starter Kit is included free in your very first box. If you start with a single monthly pack, you can add the Starter Kit in one click or use household safety scissors, ruler, glue, and pencils."
+    },
+    {
+      "id": "faq-5",
+      "category": "Returns",
+      "question": "What if a pack arrives damaged or a piece is missing?",
+      "answer": "Write to us or message us on WhatsApp within 7 days of delivery with a quick photo. We ship replacement sheets, wooden tools, or a fresh kraft folder free of charge anywhere in India."
+    },
+    {
+      "id": "faq-6",
+      "category": "Packs & Combos",
+      "question": "Can we order a pack as a birthday gift?",
+      "answer": "Yes! Both single packs and combo boxes include a complimentary Gift Tag option at checkout where we hand-write your personal message onto kraft cardstock inside the box."
+    }
+  ],
+  "resources": [
+    {
+      "id": "res-meet-architect",
+      "slug": "meet-the-architect-free-printable",
+      "type": "Printable Sheet",
+      "title": "Meet the Architect – Free Sample Activity Sheet",
+      "readTimeOrPages": "Free A4 Printable · Ages 6–12",
+      "summary": "Try the opening mission from Month 01 at your dining table tonight. Sketch a dream floor plan on our scaled grid with simple door, window, and verandah symbols.",
+      "imageUrl": "/src/assets/images/meet_architect_sheet_1795515095041.jpg",
+      "isFeaturedPrintable": true,
+      "content": [
+        "Every great building starts with listening carefully to the people who will live inside it. Print this A4 sheet, grab a wooden ruler and two coloured pencils, and ask someone at home what makes their favourite room feel special.",
+        "Use the square grid to sketch walls from straight above—like a sparrow looking down without a roof. Leave wide openings for doors and mark sunny windows facing morning light."
+      ]
+    },
+    {
+      "id": "res-bird-log",
+      "slug": "balcony-bird-observation-card",
+      "type": "Printable Sheet",
+      "title": "Neighbourhood Bird & Plant Observation Card",
+      "readTimeOrPages": "2-Page Printable · Nature Play",
+      "summary": "A weekend balcony tally sheet from Month 03 helping kids spot Indian sparrows, purple sunbirds, red-vented bulbuls, and flowering pollinators.",
+      "content": [
+        "Set aside 15 quiet morning minutes near a window or balcony with a notebook and pencil. Count how many different birds visit between 7:30 AM and 8:00 AM.",
+        "Note whether each bird prefers shady railings, potted tulsi, or shallow water bowls—these clues tell young landscape designers exactly what to plant next."
+      ]
+    },
+    {
+      "id": "res-client-interview",
+      "slug": "why-designing-for-a-client-builds-empathy",
+      "type": "Parent Guide",
+      "title": "Why Designing for a Real Client Beats Filling Craft Worksheets",
+      "readTimeOrPages": "4 min read · Parenting & Creativity",
+      "summary": "When a child builds for a grandparent, sibling, or neighbourhood shopkeeper, craft stops being busywork and becomes purposeful problem solving.",
+      "content": [
+        "Most activity books ask children to copy a pre-drawn rabbit or colour inside fixed lines. Once finished, the page goes into a drawer.",
+        "At Jotter & Potter, every monthly pack begins with an unsealed envelope from someone your child knows or cares about. Suddenly, a 7-year-old pauses to ask: 'Can Dadi reach this shelf without bending?' or 'Will this bridge carry toy trains without wobbling?'",
+        "By shifting the focus from 'pretty output' to 'serving a real person', children naturally practice listening, patience, clear explanation, and pride in earning a signed certificate."
+      ]
+    },
+    {
+      "id": "res-screen-free-rhythm",
+      "slug": "setting-up-a-30-minute-sunday-maker-table",
+      "type": "Parent Guide",
+      "title": "How to Set Up a Calm 30-Minute Screen-Free Maker Rhythm",
+      "readTimeOrPages": "3 min read · Weekly Routine",
+      "summary": "Practical tips from Indian parents on keeping craft mornings joyful—without buying expensive storage tubs or hovering over every scissor cut.",
+      "content": [
+        "Keep one flat tray or kraft folder dedicated to the month's mission so work-in-progress models can move off the dining table in ten seconds before dinner.",
+        "Pair three word-and-colouring card pairs on weekday evenings (10 minutes) with one hands-on building step on Saturday or Sunday morning (30 minutes). Consistency beats marathon sessions every time."
+      ]
+    }
+  ]
+}
