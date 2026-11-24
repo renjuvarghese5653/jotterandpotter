@@ -4,7 +4,7 @@ import { MessageCircle } from 'lucide-react';
 export const WhatsAppButton: React.FC = () => {
   return (
     <a
-      href="https://wa.me/919845012345?text=Hello%20Jotter%20%26%20Potter%2C%20I%20have%20a%20question%20about%20The%20Little%20Designer%20kits."
+      href="https://wa.me/9400945653?text=Hello%20Jotter%20%26%20Potter%2C%20I%20have%20a%20question%20about%20The%20Little%20Designer%20kits."
       target="_blank"
       rel="noreferrer"
       aria-label="Chat with Jotter and Potter on WhatsApp"
